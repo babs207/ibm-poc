@@ -1,0 +1,8 @@
+langchain==0.0.345
+wget
+sentence-transformers
+chromadb==0.3.26
+ibm-watson-machine-learning>=1.0.335
+pydantic==1.10.0
+pypdf==3.16.1
+pymupdf==1.22.2
